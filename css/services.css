@@ -107,6 +107,8 @@
     flex-direction: column;
     gap: 50px;
   }
+  .section .produit-container .produit p{
+color:black;}
   .section .produit-container .produit{
     margin: 10px 0;
     display: flex;
